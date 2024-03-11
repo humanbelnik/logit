@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"sync"
 
-	"golang.org/x/exp/slog"
+	"log/slog"
 )
 
 const (
